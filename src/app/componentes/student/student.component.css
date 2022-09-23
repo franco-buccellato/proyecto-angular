@@ -1,0 +1,14 @@
+.student-container {
+    padding-left: 10%;
+}
+
+li {
+
+    list-style: none;
+    border: 1px solid black;
+    width: 30%;
+    text-align: center;
+    margin: 5px;
+    background-color: rgb(16, 98, 214);
+    color: aliceblue;
+}
